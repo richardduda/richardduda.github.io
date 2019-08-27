@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Fjalla+One&display=swap');
+
+
+header {
+	background-color: #fff;
+	padding: 20px;
+
+}
+
+body { 
+	background-color: #C7DBFF;
+}
+
+nav a {
+	Color: #ccc;
+	font-family: 'Fjalla One', 'Arial', sans-serif;
+	margin-right: 10px;
+}
+
+h1, h2 { 
+	color: #3D53A4; 
+	font-family: 'Fjalla One', sans-serif;
+}
+
+p, ul { 
+	color: #3D53A4; 
+	font-family: 'Crimson Text', 'Times', serif;
+	font-size: 1em;
+	width: 30em;
+}
+
+#cover {
+	width: 100%
+}
+
+#slogan {
+	font-style: italic;
+}
