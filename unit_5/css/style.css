@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Fjalla+One&display=swap');
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+section {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+body { 
+	background-image: images/cover01.jpg;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	background-color:  #FFE2B8;
+	border: 1px black solid;
+
+}
+
+nav a {
+	Color: #fff;
+	font-family: 'Fjalla One', 'Arial', sans-serif;
+	margin-right: 10px;
+	background-color: #E8C66A
+}
+
+h1, h2 { 
+	color: #fff; 
+	font-family: 'Fjalla One', sans-serif;
+}
+
+p, ul { 
+	color: #fff; 
+	font-family: 'Crimson Text', 'Times', serif;
+	font-size: 1em;
+	width: 30em;
+}
+
+
+#slogan {
+	font-style: italic;
+}
+
+footer {background-color: #FF957E
+}
