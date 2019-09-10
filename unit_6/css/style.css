@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Fjalla+One&display=swap');
+
+header {
+padding: 20px;
+}
+#herotext {
+	background-color: none;
+	padding-left: 20px;
+	padding-bottom: none;
+}
+
+#buttons {
+	background-color: none;
+	padding: 20px;
+
+}
+
+#look {
+	background-color: #5864ae;
+	border: 1px black solid;
+	border-color: #fff;
+	float: left;
+	width: 20%;
+	text-align: center;
+	margin-top: 0px;
+}
+
+#about {
+	background-color: #5864ae;	
+	border: 1px black solid;
+	border-color: #fff;
+	float: right;
+	width: 20%;	
+	text-align: center;
+	margin-top: 0px;
+}
+
+#creative {
+	background-color: #7e93cc;	
+	width: 100%;
+	padding: 20px;
+	margin: 0 px;
+}
+
+#three {
+	background-color: #3d54a4;	
+	width: 100%;
+	padding: 20px;
+	margin: 0 px;
+}
+
+#four {
+	background-color: #767ebd;	
+	width: 100%;
+	padding: 20px;
+	margin: 0 px;
+}
+
+#five {
+	background-color: #7e93cc;	
+	width: 100%;
+	padding: 20px;
+	margin: 0 px;
+}
+
+
+section {
+	padding: 0px;
+}
+
+body { 
+	background-image: images/cover01.jpg;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	background-color:  #fff;
+	margin: 0px;
+}
+
+nav a {
+	Color: #fff;
+	font-family: 'Fjalla One', 'Arial', sans-serif;
+	margin-right: 10px;
+	float: right; 
+}
+
+h1, h2 { 
+	color: #fff; 
+	font-family: 'Fjalla One', sans-serif;
+}
+
+p, ul { 
+	color: #fff; 
+	font-family: 'Crimson Text', 'Times', serif;
+	font-size: 1em;
+	width: 30em;
+}
+
+
+#slogan {
+	font-style: italic;
+}
+
+#two_column {
+	background-color: black;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#left {
+	background-color: violet; 
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 52%;
+}
+
+#right {
+	background-color: pink;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 38%;
+}
