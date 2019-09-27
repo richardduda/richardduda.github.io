@@ -82,7 +82,10 @@ p {
 
 }
 #herotext {
-  background-color: #7e93cc;
+  background-image: url(../images/coverright.jpg);
+  background-position: bottom;
+  background-size: cover;
+  padding: 220px 0;
   width: 50%;
   float: right;
   text-align: center;
