@@ -82,13 +82,15 @@ p {
 
 }
 #herotext {
-  background-image: url(../images/coverright.jpg);
-  background-position: bottom;
-  background-size: cover;
-  padding: 220px 0;
-  width: 50%;
-  float: right;
-  text-align: center;
+background: url(../images/coverleft.jpg), url(../images/coverright.jpg), #3d54a4;
+background-size: 50%, 50%;
+padding: 100px 0;  
+background-repeat: no-repeat;
+background-position: left, right bottom;
+}
+#herotext div {  
+margin-left: auto;
+with:50%;
 }
 
 
