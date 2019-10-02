@@ -7,8 +7,9 @@ padding: 20px;
 nav {
 	color: #5864ae; 
 	font-family: 'Fjalla One', sans-serif;
+	font-size: 1em;
 	float: right;
-	padding-top: 35px;
+	padding-top: 25px;
 	
 }
 
@@ -31,7 +32,7 @@ h1, h2 {
 	color: #fff; 
 	font-family: 'Fjalla One', sans-serif;
 	margin: 0px;
-	font-size: 18px;
+	font-size: 1.5em;
 }
 
 p { 
@@ -55,14 +56,9 @@ p {
 }
 #logophoto {
 	padding-left: 20px;
-	padding-bottom: 20px;
+	padding-bottom: 5px;
 	float:left; 20px;
 	width: 45%;
-}
-
-
-#coverleft {
-	width: 50%;
 }
 
 #rtlogo {
@@ -72,7 +68,7 @@ p {
 
 #slogan {
 	padding: 20px;
-	font-size: 30px;
+	font-size: 2em;
 
 }
 
@@ -82,8 +78,8 @@ p {
 
 }
 #herotext {
-background: url(../images/coverleft.jpg), url(../images/coverright.jpg), #3d54a4;
-background-size: 50%, 50%;
+background: url(../images/cover01.jpg);
+background-size: 100%;
 padding: 100px 0;  
 background-repeat: no-repeat;
 background-position: left, right bottom;
@@ -91,16 +87,16 @@ background-position: left, right bottom;
 
 
 #herotext div {  
+
 }
 
 
 .btn {
-	color: #fff;
 	border: 30px;
 	border-color: #3d54a4;
-	background-color: #5864ae;
+	background-color: #fff;
 	padding: 14px 28px;
-	font-size: 16px;
+	font-size: 1em;
 	cursor: pointer;
 	display: inline-block;
 }
@@ -145,3 +141,10 @@ background-position: left, right bottom;
 	float: right;
 	width: 38%;
 }
+
+#logofooter {
+	padding-left: 20px;
+	width: 55%;
+	}
+
+
